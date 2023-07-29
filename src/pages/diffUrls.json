@@ -151,12 +151,17 @@
     "iframe": []
   },
   "0.9.5": {
+    "Gogoanime": [
+      "https://gogoanimehd.to/*",
+      "https://gogoanime3.net/*"
+    ],
     "Zoro": [
       "https://aniwatch.to/*"
     ],
     "iframe": [
       "https://rationalityaloelike.com/e/*",
       "https://wolfdyslectic.com/e/*",
+      "https://gamoneinterrupted.com/e/*",
       "https://megacloud.tv/*"
     ]
   }
