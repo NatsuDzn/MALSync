@@ -236,6 +236,7 @@ module.exports = {
       '*://*.mixdrop21.net/e/*',
       '*://*.mixdrop.si/e/*',
       '*://*.mixdrop.nu/e/*',
+      '*://*.mixdrop.ms/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -411,6 +412,10 @@ module.exports = {
       '*://*.embtaku.com/streaming.php?*',
       '*://*.embtaku.com/load.php?*',
       '*://*.embtaku.com/loadserver.php?*',
+      '*://*.s3taku.com/embedplus*',
+      '*://*.s3taku.com/streaming.php?*',
+      '*://*.s3taku.com/load.php?*',
+      '*://*.s3taku.com/loadserver.php?*',
       // auto-gogostream-replace-dont-remove
     ],
   },
@@ -636,6 +641,7 @@ module.exports = {
       '*://cindyeyefinal.com/e/*',
       '*://michaelapplysome.com/e/*',
       '*://sethniceletter.com/e/*',
+      '*://loriwithinfamily.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
